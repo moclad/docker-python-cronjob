@@ -12,6 +12,7 @@ docker build -t python-cron .
 ```
 ## Configuration
 
+```
 MINIO_URL= Minio URL
 ACCESS_KEY= Minio Access Key
 SECRET_KEY= Minio Secret Key
@@ -24,5 +25,6 @@ PID_FILE_NAME=backup.pid
 CALENDAR=https://calendar.google.com/calendar/ical/xxx%40gmail.com/private-xxxxx/basic.ics
 
 SLACK_HOOK= Slack hook url for notifications.
+```
 
 
