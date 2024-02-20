@@ -27,7 +27,7 @@ CALENDAR=https://calendar.google.com/calendar/ical/xxx%40gmail.com/private-xxxxx
 SLACK_HOOK= Slack hook url for notifications.
 ```
 
-##To get the addresses of your calendar
+## To get the addresses of your calendar
 
 Go to https://www.google.com/calendar/
 
