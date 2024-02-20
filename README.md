@@ -22,7 +22,7 @@ BACKUP_DIR=/app/data/
 BACKUP_FILE_NAME=calendar-backup
 PID_FILE_NAME=backup.pid
 
-CALENDAR=https://calendar.google.com/calendar/ical/xxx%40gmail.com/private-xxxxx/basic.ics
+CALENDAR=https://calendar.google.com/calendar/ical/xxx%40gmail.com/private-xxxxx/basic.ics #The calendar's download URL
 
 SLACK_HOOK= Slack hook url for notifications.
 ```
