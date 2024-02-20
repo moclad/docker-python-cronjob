@@ -37,3 +37,7 @@ At the bottom, you should have a Private address section, with an ICAL button. R
 If there is no Private address section, you may be using a Google Apps account and then you need to check your organisation's settings.
 
 Note: you can use any http address you like, provided it works with the wget command.
+
+## Slack App Webhook
+
+There are various how-to's showing how to create incomming webhooks in slack. These will guide you to create one and use it python.
