@@ -27,4 +27,13 @@ CALENDAR=https://calendar.google.com/calendar/ical/xxx%40gmail.com/private-xxxxx
 SLACK_HOOK= Slack hook url for notifications.
 ```
 
+##To get the addresses of your calendar
 
+Go to https://www.google.com/calendar/
+
+Click on the down arrow next to the name of a calendar, in the menu on the left. Select calendar settings in the dropdown menu.
+
+At the bottom, you should have a Private address section, with an ICAL button. Right-click on it, select Copy link address, paste it in the settings.ini, using the formatting above.
+If there is no Private address section, you may be using a Google Apps account and then you need to check your organisation's settings.
+
+Note: you can use any http address you like, provided it works with the wget command.
